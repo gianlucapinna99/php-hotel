@@ -1,0 +1,21 @@
+body {
+    background-color: #011128;
+    color: white;
+}
+
+table {
+    color: white;
+    background-color: #092136;
+    border-radius: 15px;
+}
+
+tr {
+    color: white;
+}
+
+.form-box {
+    background-color: #092136;
+    width: fit-content;
+    padding: 20px 27px;
+    border-radius: 15px;
+}
